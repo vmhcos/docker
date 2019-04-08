@@ -1,7 +1,6 @@
 #!/bin/sh
 
 
-
 # 运行 xvfb
 Xvfb -ac -screen scrn 1280x2000x24 :9.0 &
 
